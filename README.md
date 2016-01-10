@@ -32,6 +32,8 @@ Feel free to send PRs with the suggestions!
 
 - **ReWork: Change the Way You Work** - Jason Fried, David Heinemeier Hansson
 
+- **The Hard Thing About Hard Things** - Ben Horowitz
+
 ### Other
 
 - **I Am Malala: The Girl Who Stood Up for Education and was Shot by the Taliban** - Malala Yousafzai
