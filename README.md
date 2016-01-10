@@ -16,6 +16,7 @@ Feel free to send PRs with the suggestions!
 
 ### Technology
 
+- **You don't know JS series** - Kyle Simpson
 
 ### Programming
 
