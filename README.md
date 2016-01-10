@@ -1,4 +1,4 @@
-Books to read
+Books to read - your favourite books
 ===
 
 ## About
