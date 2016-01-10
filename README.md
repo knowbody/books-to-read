@@ -25,6 +25,7 @@ Feel free to send PRs with the suggestions!
 
 ### Biography
 
+- **Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future** - Ashlee Vance
 
 ### Business
 
